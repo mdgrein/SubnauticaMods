@@ -1,0 +1,13 @@
+{
+  "Id": "QuartzProcessor",
+  "DisplayName": "Quartz processor",
+  "Author": "MDGrein",
+  "Version": "0.0.1",
+  "Dependencies": [
+    "SMLHelper"
+  ],
+  "Enable": true,
+  "AssemblyName": "QuartzProcessor.dll",
+  "EntryMethod": "QuartzProcessor.QPatch.Patch",
+  "Config": {}
+}
